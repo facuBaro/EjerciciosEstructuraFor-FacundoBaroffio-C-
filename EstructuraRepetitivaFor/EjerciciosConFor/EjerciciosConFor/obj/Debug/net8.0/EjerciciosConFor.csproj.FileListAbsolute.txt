@@ -1,0 +1,14 @@
+C:\Users\Estudiante\Desktop\EstructuraRepetitivaFor\EjerciciosConFor\EjerciciosConFor\bin\Debug\net8.0\EjerciciosConFor.exe
+C:\Users\Estudiante\Desktop\EstructuraRepetitivaFor\EjerciciosConFor\EjerciciosConFor\bin\Debug\net8.0\EjerciciosConFor.deps.json
+C:\Users\Estudiante\Desktop\EstructuraRepetitivaFor\EjerciciosConFor\EjerciciosConFor\bin\Debug\net8.0\EjerciciosConFor.runtimeconfig.json
+C:\Users\Estudiante\Desktop\EstructuraRepetitivaFor\EjerciciosConFor\EjerciciosConFor\bin\Debug\net8.0\EjerciciosConFor.dll
+C:\Users\Estudiante\Desktop\EstructuraRepetitivaFor\EjerciciosConFor\EjerciciosConFor\bin\Debug\net8.0\EjerciciosConFor.pdb
+C:\Users\Estudiante\Desktop\EstructuraRepetitivaFor\EjerciciosConFor\EjerciciosConFor\obj\Debug\net8.0\EjerciciosConFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\EstructuraRepetitivaFor\EjerciciosConFor\EjerciciosConFor\obj\Debug\net8.0\EjerciciosConFor.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\EstructuraRepetitivaFor\EjerciciosConFor\EjerciciosConFor\obj\Debug\net8.0\EjerciciosConFor.AssemblyInfo.cs
+C:\Users\Estudiante\Desktop\EstructuraRepetitivaFor\EjerciciosConFor\EjerciciosConFor\obj\Debug\net8.0\EjerciciosConFor.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\EstructuraRepetitivaFor\EjerciciosConFor\EjerciciosConFor\obj\Debug\net8.0\EjerciciosConFor.dll
+C:\Users\Estudiante\Desktop\EstructuraRepetitivaFor\EjerciciosConFor\EjerciciosConFor\obj\Debug\net8.0\refint\EjerciciosConFor.dll
+C:\Users\Estudiante\Desktop\EstructuraRepetitivaFor\EjerciciosConFor\EjerciciosConFor\obj\Debug\net8.0\EjerciciosConFor.pdb
+C:\Users\Estudiante\Desktop\EstructuraRepetitivaFor\EjerciciosConFor\EjerciciosConFor\obj\Debug\net8.0\EjerciciosConFor.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\EstructuraRepetitivaFor\EjerciciosConFor\EjerciciosConFor\obj\Debug\net8.0\ref\EjerciciosConFor.dll
